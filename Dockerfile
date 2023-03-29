@@ -1,3 +1,6 @@
+# Copyright Adrien Laurent 2022
+# All rights reserved.
+
 FROM pytorch/pytorch
 RUN apt-get update && apt-get -y upgrade && apt-get -y install sudo vim git screen locales wget 
 RUN locale-gen en_US.UTF-8

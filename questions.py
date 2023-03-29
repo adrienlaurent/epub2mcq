@@ -1,3 +1,6 @@
+# Copyright Adrien Laurent 2022
+# All rights reserved.
+
 import gc
 import torch
 import config

@@ -1,3 +1,6 @@
+# Copyright Adrien Laurent 2022
+# All rights reserved.
+
 from epub import get_chapters_from_epub
 import firebase
 

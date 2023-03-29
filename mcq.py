@@ -1,3 +1,6 @@
+# Copyright Adrien Laurent 2022
+# All rights reserved.
+
 from questions import get_questions
 from keywords import *
 from distractors import *

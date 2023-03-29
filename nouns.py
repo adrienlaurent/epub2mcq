@@ -1,3 +1,6 @@
+# Copyright Adrien Laurent 2022
+# All rights reserved.
+
 """
 This script modifies the Firebase DB to add a new field called "nouns" in the
 chunk, which contains the list of nouns found in the "context" text.

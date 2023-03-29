@@ -1,3 +1,6 @@
+# Copyright Adrien Laurent 2022
+# All rights reserved.
+
 import ebooklib
 from ebooklib import epub
 from nltk import sent_tokenize

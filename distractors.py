@@ -1,3 +1,6 @@
+# Copyright Adrien Laurent 2022
+# All rights reserved.
+
 import transformers
 from sense2vec import Sense2Vec
 from better_profanity import profanity

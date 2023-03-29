@@ -1,3 +1,6 @@
+# Copyright Adrien Laurent 2022
+# All rights reserved.
+
 from summarize import load_summarization_model_tokenizer, summarizer
 from questions import load_model,get_question
 from keywords import *
